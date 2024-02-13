@@ -1,4 +1,4 @@
-<img src=”(https://github.com/paribeshdangal66/paribeshdangal66/assets/143020783/49cba970-fe47-4da6-a4ec-79dca0d347fd)" alt=”my banner”>
+<img src=”[(https://github.com/paribeshdangal66/paribeshdangal66/assets/143020783/49cba970-fe47-4da6-a4ec-79dca0d347fd)](https://github.com/paribeshdangal66/paribeshdangal66/assets/143020783/49cba970-fe47-4da6-a4ec-79dca0d347fd)" alt=”my banner”>
 ## Hi 👋 Everyone 👥 It's me Paribesh Dangal (felix_47)
 
 I am a Computer Science Studing javascript, web development and exploring many js packages as well as i'm a discord bot developer..
