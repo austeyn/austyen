@@ -1,4 +1,8 @@
-<img src=”https://github.com/paribeshdangal66/paribeshdangal66/assets/143020783/21a88889-a77b-466d-b5e2-cba9c66d9f77" alt=”my banner”>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
 ## Hi 👋 Everyone 👥 It's me Paribesh Dangal (felix_47)
 
 I am a Computer Science Studing javascript, web development and exploring many js packages as well as i'm a discord bot developer..
