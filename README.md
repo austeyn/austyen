@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+<img width=”200" height=”200" src=”[https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png](https://media.discordapp.net/attachments/1199286559120314449/1206832212482326568/png.png?ex=65dd7115&is=65cafc15&hm=9f02ed3b829e34f93fa92204bd99251ff8bf9ac86561e7d8d8eeea7a50a40bfc&=&format=webp&quality=lossless&width=1024&height=393)" alt=”my banner”>
 
 </p>
 
