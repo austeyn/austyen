@@ -37,6 +37,8 @@ I am a Computer Science Studing javascript, web development and exploring many j
 
 If you find our work intresting, consider supporting our [Projects](https://discord.gg/Q52p7cuBHY)
 
+--- 
+
 <p align="center">
 <a href="https://www.javascript.com/" target="_blank">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
