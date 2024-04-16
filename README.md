@@ -42,8 +42,6 @@ If you find our work intresting, consider supporting our [Projects](https://disc
 <a href="https://github.com/features/actions" target="_blank">
   <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
 </a>
-<a href="https://www.spigotmc.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Spigot-%23518FAC.svg?style=flat-square&logo=spigot&logoColor=white" alt="Spigot">
-</a>
+  
 </p>
 
