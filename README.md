@@ -1,7 +1,7 @@
 
 
 
-## Hi 👋 Everyone 👥 It's me Paribesh Dangal (felix_47)
+## Hi 👋 Everyone 👥 It's me Paribesh Dangal (bruwyn)
 
 I am a Computer Science Studing javascript, web development and exploring many js packages as well as i'm a discord bot developer..
 - 🤙 If you want to contact me [Click here](https://discord.gg/Q52p7cuBHY)
