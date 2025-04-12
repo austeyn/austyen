@@ -18,18 +18,18 @@
 ### 🛠️ Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) 
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) 
 
 **Database & Tools**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
 **Discord Bot Dev**  
-![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=for-the-badge&logo=discord)
+![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=discord)
 
 ---
 
