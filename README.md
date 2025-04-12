@@ -44,8 +44,8 @@
 
 ### 🚀 Let's Connect
 
-[![Discord](https://img.shields.io/badge/-Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1153977230427422760)
-[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000?style=for-the-badge&logo=vercel)](https://paribeshdangal.com.np)
+[![Discord](https://img.shields.io/badge/-Join%20My%20Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1153977230427422760)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000?style=flat&logo=vercel)](https://paribeshdangal.com.np)
 
 ---
 
