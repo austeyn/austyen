@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">Austn</a> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+JavaScript+Developer;Node.js+%7C+Express+%7C+MongoDB;React+%7C+%7C+Next.js;Discord.js+Bot+Developer;Always+Building+Cool+Things!&center=true&width=500&height=45" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+JavaScript+Developer;Node.js+%7C+MongoDB;React+%7C+Next.js;Discord.js+Bot+Developer;Always+Building+Cool+Things!&center=true&width=500&height=45" alt="Typing Animation">
 </p>
 
 ---
