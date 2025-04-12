@@ -1,47 +1,59 @@
-
-
-
-## Hi 👋 Everyone 👥 It's me Paribesh Dangal (bruwyn)
-
-I am a Computer Science Studing javascript, web development and exploring many js packages as well as i'm a discord bot developer..
-- 🤙 If you want to contact me [Click here](https://discord.gg/Q52p7cuBHY)
-
-## 🚀 Quick Overview
-
-- 🔭 I’m currently working on [ArenaManager](https://github.com/arenamanagerofficial/arenamanager/blob/main/README.md) -  The Ultimate and Advanced Esports Discord Bot.
-- 🌱 I’m currently learning JavaScript to enhance my skills.
-- 👥 Looking for the Contributors for ArenaManager.
-- 💬 ask Me anything in my [World](https://discord.gg/Q52p7cuBHY)
-  
-## 📚 Featured Projects 
-
-- [ArenaManager](https://github.com/arenamanagerofficial/arenamanager/blob/main/README.md): The Ultimate and Advanced Esports Discord Bot Providing you service.
-- Burnie: Working on It.
-- [Upcomming More](https://discord.gg/Q52p7cuBHY): Join me for Getting Updates of upcomming Projects.
-
-
-## 📬 Contact Me
-- Email: paribeshdangal949@gmail.com
-
-## ❤ Support Us
-
-If you find our work intresting, consider supporting our [Projects](https://discord.gg/Q52p7cuBHY)
-
---- 
+<h1 align="center">Hi there, I'm <a href="https://github.com/yourusername" target="_blank">YourName</a> 👋</h1>
 
 <p align="center">
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-</a>
-<a href="https://html.com/" target="_blank">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-</a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
-</a>
-<a href="https://github.com/features/actions" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions">
-</a>
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+JavaScript+Developer;Node.js+%7C+Express+%7C+MongoDB;React+%7C+Tailwind+%7C+Next.js;Discord.js+Bot+Developer;Always+Building+Cool+Things!&center=true&width=500&height=45">
 </p>
+
+---
+
+### 🧠 About Me
+
+- 💻 I'm a Fullstack JavaScript Developer
+- 🤖 I build advanced Discord bots using `discord.js`
+- 🌐 I develop dashboards, APIs & full web apps
+- 🧩 I create & sell custom bots, scripts, and FiveM resources
+- 🚀 Always learning & experimenting with new tech
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js) 
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express)
+
+**Database & Tools**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+**Discord Bot Dev**  
+![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logo=discord)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Let's Connect
+
+[![Discord](https://img.shields.io/badge/-Join%20My%20Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/yourlink)
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000?style=flat&logo=vercel)](https://yourwebsite.com)
+[![Twitter](https://img.shields.io/badge/-@YourHandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+
+---
+
+> ⚡ “Code like there’s no bug watching.”
 
